@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6ab28a55-bfd6-4ccb-a489-906d89336fd6/resourceGroups/2023-06-12-66986/providers/Microsoft.Web/sites/AhmAlkaliPortfolio",
+    "appService.deploySubpath": "."
+}
